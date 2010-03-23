@@ -1,0 +1,8 @@
+h1. Progressify
+
+This is a simple progress bar plugin for jQuery
+
+
+h2. License
+
+This plugin is MIT licensed. For more details see the LICENSE file.

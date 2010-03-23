@@ -1,0 +1,15 @@
+.progressify {
+  width: inherit;
+  height: 16px;
+  background: #eeeeec;
+  padding: 0;
+  border: 1px solid #888a85;
+}
+
+.progressify-inner {
+  height: 100%;
+  background: #3465a4;
+  margin: 0;
+  padding: 0;
+  float: left;
+}
